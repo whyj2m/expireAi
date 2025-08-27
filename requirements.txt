@@ -1,1 +1,6 @@
-pandas python-dateutil openpyxl requests jinja2 sendgrid
+pandas
+python-dateutil
+openpyxl
+requests
+jinja2
+sendgrid
